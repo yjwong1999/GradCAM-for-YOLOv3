@@ -1,5 +1,5 @@
 # GradCAM-for-YOLOv3
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Kd4Lm6ILDO6dO0Ko6S1YGtz-KjJwvNyb/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kd4Lm6ILDO6dO0Ko6S1YGtz-KjJwvNyb?authuser=1)
 
 This repo will provide an example of GradCAM for object detection using YOLOv3. </br>
 This tutorial will use [this YOLOv3 repo](https://github.com/zzh8829/yolov3-tf2) as the reference YOLOv3 model.
