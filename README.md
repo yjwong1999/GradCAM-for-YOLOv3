@@ -24,6 +24,14 @@ Feel free to contribute :)
 
 <img src="https://github.com/yjwong1999/GradCAM-for-YOLOv3/blob/main/data/GradCAM.jpg" 
      alt="depthai" width=600><br>
+     
+As shown in the plots above, we can see that the GradCAM Heatmap visualize where the objects are detected. </br>
+
+**From Left to Right:** </br>
+**Left**: The heatmap highlighted small objects </br>
+**Mid**: The heatmap highlighted middle-sized objects </br>
+**Right**: The heatmap highlighted large-sized objects </br>
+This is because each of the head model in YOLOv3 is responsible in detecting small, middle-sized, and large objects, respectively. </br>
 
 ## References and Acknowledgements
 [GradCAM using Keras](https://keras.io/examples/vision/grad_cam/) </br>
