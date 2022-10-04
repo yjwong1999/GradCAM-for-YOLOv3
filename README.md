@@ -1,7 +1,7 @@
 # GradCAM-for-YOLOv3
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kd4Lm6ILDO6dO0Ko6S1YGtz-KjJwvNyb?authuser=1)
 
-**Replication of CVPR Paper - GradCAM: Visual Explanations from Deep Networks via Gradient-based Localization </br>**
+**Reimplementation of CVPR Paper - GradCAM: Visual Explanations from Deep Networks via Gradient-based Localization </br>**
 Paper link is provided [here](https://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf). </br>
 
 This repo will provide an example of GradCAM for object detection using YOLOv3. </br>
